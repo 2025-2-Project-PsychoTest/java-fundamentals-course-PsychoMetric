@@ -153,7 +153,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
     - Errores Más Comunes:
 
-        - Olvidar el punto y coma (;) al final de las instrucciones
+        - Olvidar el punto y coma ";" al final de las instrucciones
         - Confundir = (asignación) con == (comparación)
         - No respetar mayúsculas/minúsculas - Java es case-sensitive
         - No limpiar el buffer del Scanner - usa nextLine() después de nextInt()
@@ -176,7 +176,10 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Proyecto creado**: [Proyecto de consejos](https://onlinegdb.com/UbF66l_JB4) 
 
 ## Recursos adicionales 
+
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/2025-2-Project-PsychoTest/java-fundamentals-course-PsychoMetric) 
+
+- **Playlist en YouTube** : [Ver la playlist del curso Completa](https://www.youtube.com/playlist?list=PLnwsq74kEtUti74vCeuiPh9HX83yTlzPS)
 
 - **Todas las actividades prácticas**: 
 
@@ -186,7 +189,7 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 | 2 | Variables | [OnlineGDB](https://onlinegdb.com/-yF15Rj2ES ) | 
 | 3 | Bucles | OnlineGDB: <br>[if-else](https://onlinegdb.com/MSY_Kw1Irz)<br>[bucle for](https://onlinegdb.com/TCkCvC2wIU)<br>[bucle while](https://onlinegdb.com/MNIXbwUcE)| 
 | 4 | Métodos, Entrada y Salida  | OnlineGDB:<br>[Ejemplo 1](https://onlinegdb.com/8681yMez-)<br>[Ejemplo 2](https://onlinegdb.com/dNtFryC9GS) | 
-| 5 | Programa OOP | OnlineGDB:<br>>[Ejemplo 1](https://onlinegdb.com/VogkXdsCM)<br>[Ejemplo 2](https://www.onlinegdb.com/vPPsxdMSv8) | 
+| 5 | Programa OOP | OnlineGDB:<br>[Ejemplo 1](https://onlinegdb.com/VogkXdsCM)<br>[Ejemplo 2](https://www.onlinegdb.com/vPPsxdMSv8) | 
 | 6 | Programa gestión de estudiantes | [OnlineGDB](https://onlinegdb.com/LAH46xsCjg) | 
 | 7 | Buenas practicas | [OnlineGDB](https://onlinegdb.com/UbF66l_JB4) | 
 
